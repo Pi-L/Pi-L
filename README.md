@@ -1,8 +1,8 @@
 <h1><b>Hi, I'm Pierre-Yves :man_technologist:</b></h1>
 
-<img src="./images/dev_freepik.jpg" alt="Coder in action - Image from freepik.com" align="right">
+<img src="https://github.com/Pi-L/Pi-L/raw/master/images/dev_freepik.jpg" alt="Coder in action - Image from freepik.com" align="right" width="238px">
 
-<h2>Places where you can find me :globe_with_meridians: : </h2>
+<h2>Places where you can find me : </h2>
 <ul>
 	<li>:card_file_box: <a href="https://legeay.info">My Portfolio</a></li>
 	<li>:earth_africa: <a href="https://www.linkedin.com/in/pyl/">Linkedin</a></li>
