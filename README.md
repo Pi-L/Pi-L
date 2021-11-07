@@ -14,4 +14,4 @@
 
 | QStats | | |
 | :---: |:---:| :---:|
-| [](https://github-readme-stats.vercel.app/api?username=Pi-L&count_private=true&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |  | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-L&theme=slateorange&hide_langs_below=5&count_private=true) |
+| ![](https://github-readme-stats.vercel.app/api?username=Pi-L&count_private=true&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |  | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-L&theme=slateorange&hide_langs_below=5&count_private=true) |
