@@ -9,3 +9,6 @@
 	<li>:wrench: Tinkering on <a href="https://codepen.io/pi-L/">CodePen</a></li>
 	<li>:male_detective: Taking challenges on <a href="https://www.root-me.org/pi-L">Rootme</a></li>
 </ul>
+
+
+[![PY's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pi-L)](https://github.com/anuraghazra/github-readme-stats)
