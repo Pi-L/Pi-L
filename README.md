@@ -12,6 +12,6 @@
 <br>
 <br>
 
-| QStats | | |
+| Stats | | |
 | :---: |:---:| :---:|
 | ![](https://github-readme-stats.vercel.app/api?username=Pi-L&count_private=true&theme=slateorange&show_icons=true) |  | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-L&theme=slateorange&count_private=true&?exclude_repo=exnihilo-server,pyl.space,Waria,hm_acronymes,spring-petclinic,tp_azure,initiation_git,FunWithBash&hide=Batchfile&langs_count=7) |
